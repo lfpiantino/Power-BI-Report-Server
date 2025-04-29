@@ -62,5 +62,26 @@ Este documento descreve o processo de instalação, configuração e boas práti
 
 ---
 
-## 📂 Organização de Diretórios
+
+---
+
+## 📌 Dicas Gerais
+
+- O uso do Gateway local permite expansão futura para integração com Power BI Service.
+- Relatórios .pbix devem ser salvos e publicados via Power BI Desktop for Report Server.
+
+---
+
+## 👨‍💻 Manutenção
+
+- Documentação atualizada trimestralmente
+- Equipe responsável: Time de BI Corporativo
+
+---
+
+## 🧠 Referências
+
+- [Documentação Microsoft Power BI Report Server](https://learn.microsoft.com/pt-br/power-bi/report-server/)
+- [SQL Server para Business Intelligence](https://learn.microsoft.com/pt-br/sql/sql-server/)
+
 
